@@ -6,6 +6,7 @@ code refactoring and consolidating
 3. [Collaboration](#collaboration)
 ### General Info
 ***
+Head over to the web page at <a href="https://soulfulnoise.github.io/comply-or-pay-week-1-hw/">
 Comply-or-Pay is a refactoring and consolidating project for Horiseon. A soultion service company specializing in Search Engine Optimization,Online Reputation Management,Social Media Marketing for large and small buisness.The primary goal was to refactor the HTML code to be ADA complient.With the adding of Sematic Elements. A few of the main changes made were connection the the header tab for  Search Engine Optimization as well so minor tweaks to make the web page more appealing and fucntional,also consolidating the css.
 
 
